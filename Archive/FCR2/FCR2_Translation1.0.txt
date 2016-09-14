@@ -1,0 +1,203 @@
+110256		UNIQUE
+110257		EXQUISITE
+
+123246  	Diagram: Draug's Confession
+98318   	Diagram: Hardened leather armor
+
+102264		Potion. Significantly increases the regeneration of Vitality&lt;br&gt;at the expense of damage dealt.
+
+98016		Blizzard
+98985		Blizzard
+98986		[[Blizzard]]Witchers who drink the Blizzard potion are more agile during fights. Their alredy exceptional reflex is increased to superhuman level, allowing to parry enemy attacks more easily.&lt;br&gt;The potion has no known side effects.
+98259		Formula: Blizzard
+19787		Increases chance to block enemy attacks.&lt;br&gt;No side effects.		
+
+98981		Kiss
+98982		[[Kiss]]Kiss increases resistance to special attacks that cause Bleeding, while producing no side effects of its own.&lt;br&gt;&lt;br&gt;The potion increases Toxicity slightly when imbibed.&lt;br&gt;Kiss is recommended before fighting monsters that employ powerful lacerating attacks.
+98017		Kiss
+98270		Formula: Kiss
+101979		Potion. Increases resistance to Bleeding.
+
+98988		[[Maribor Forest]]Golden Oriole, one of the best-known witcher potions, increases resistance to special attacks that cause Poisoning, while producing no side effects of its own.&lt;br&gt;&lt;br&gt;The potion increases Toxicity slightly when imbibed.&lt;br&gt;Golden Oriole is recommended before fighting disease carrying monsters. It is especially effective against venomous creatures.
+101991		Potion. Increases resistance to Poisoning.
+
+98973		Shrike
+98974		[[Shrike]]This singular potion carries molecules that combined with witcher's metabolites create a toxic by-product. Each time the witcher's blood comes in contact with air it turns into a poisonous substance. This poison is easily absorbed by skin, so those individuals lucky enough to injure the witcher in combat, quickly regret it.&lt;br&gt;Potion causes serious intoxication when imbibed.
+98265		Formula: Shrike
+98020		Shrike
+102225		Potion. Attackers have a chance to be Poisoned.
+
+98970		[[Wolf]]Maribor Forest considerably boosts Vigor. After consuming it, the witcher tirelessly parries blows and can cast many Signs in a row.&lt;br&gt;It is, however, a devastating brew that reduces Vitality. Its side effects can be somehow alleviated by consuming the Swallow or Gadwall potions.&lt;br&gt;&lt;br&gt;Potion causes serious intoxication when imbibed.&lt;br&gt;This potion is used by witchers who specialize in casting Signs and by those preparing to fight monsters with strong attacks that must be parried.
+102293		Potion. Significantly increases Vigor while reducing Vitality.
+
+98971		Wolverine
+98972		[[Wolverine]]Wolverine is especially popular among witchers who believe that killing monsters quickly is their best defense. This potion increases muscle power, and thus damage dealt to foes in close combat. Unlike Thunderbolt, it has no side effects.&lt;br&gt;Wolverine can alleviate the side effects of Petri's Philter and Gadwall.&lt;br&gt;&lt;br&gt;Potion causes minor intoxication when imbibed.&lt;br&gt;The potion is recommended for witchers who prefer to use their swords in fights and employ Signs sporadically. Rook is especially helpful against resilient and heavily armored opponents.
+98257		Formula: Wolverine
+102292		Potion. Increases damage dealt with swords.
+98024		Wolverine
+
+98990		[[Petri Philter]]This potion, created by a student of a famous mage of the first Conclave, is weaker than Stammelford's Philter, but still causes muscle numbness that decrease damage dealt with the sword. Petri's Philter increases the intensity of witcher Signs – the impact of the Aard, the defenses of the Quen, the effectiveness of the Yrden, and so on.&lt;br&gt;&lt;br&gt;The potion increases Toxicity very markedly when imbibed.&lt;br&gt;It is recommended for witchers who rely more heavily on magic than on their swords, and before fights against monsters vulnerable to Signs.
+102031		Potion. Increases Sign intensity at the expense of damage dealt.
+
+98029		Wolf
+98975		Wolf
+98976		[[Concretion]]Wolf helps the witcher focus. It increases the effectiveness of strikes designed to cause one single devastating attack.&lt;br&gt;&lt;br&gt;The potion increases Toxicity very markedly when imbibed.&lt;br&gt;Wolf is recommended in situations where the witcher is expecting a long fight. A single successful precision strike could end the fight in an instant.
+98268		Formula: Wolf
+101392		Potion. Increases chance of instant kill attack.
+
+98964		[[Thunderbolt]]The Thunderbolt potion augments muscle power and concenration and thus damage dealt using a sword. As simple as it is effective, the brew is a more powerful version of the Wolverine potion.&lt;br&gt;Such close concentration, however, weakens the witcher's defenses. Intent on dealing damage to his foes, the user becomes susceptible to their attacks as his chance to parry decreases. This loss can be counterbalanced by the Blizzard potion.&lt;br&gt;&lt;br&gt;Potion significantly increases Toxicity when imbibed.&lt;br&gt;This potion is recommended before fighting particularly resilient or heavily armored monsters.
+102275		Potion. Significantly increases damage dealt while decreasing chance to parry attacks.
+
+27770		STAMINA
+27786		Witcher's body is resistant to aging and disease and heals at an above human rate.
+
+27771		WILL
+27787		High willpower makes witchers immune to simple forms of hypnosis and allows for a limited control over the Force of the elements.
+
+27772		DEXTERITY
+27788		Nearly superhuman reflexes, agility and speed allows witchers to perform exceptional feats in combat.
+
+27773		STRENGTH
+27789		Witchers are at the peak level of natural physical limits of men of their height, weight and build.
+
+27774		MUTATIONS
+27790		Geralt is the only witcher that survived additional advanced mutations. His albinism is a side effect of these experiments.
+
+27775		LIVING ANATOMY
+27791		Knowledge of human and monster anatomy allows witchers to strike enemies at their weakest spots.
+
+28200		INTERSECTIONS
+28223		Witchers are able to draw the magical Force from the elements.
+
+28201		HEAVY BLOCK
+28224		Witcher uses a Quen Sign to redirect the force of enemy attacks.
+
+28202		WITCHER SIGNS
+28225		Witchers use a simple gesture based spells that do not require knowledge of a magical formulas.
+
+28203		YRDEN MASTERY
+28226		Yrden Sign glyphs cause shock damage in addition to paralysing effect: 3/s.
+
+28204		AARD MASTERY
+28227		Aard's kinetic blast is so violent that it damages and sometimes stuns enemies.&lt;br&gt;Sign may stun foes.&lt;br&gt;Sign damage: +5.
+
+28205		AXII MASTERY
+28228		Increased suggestive power of Axii Sign allows to charm strong-willed enemies.&lt;br&gt;Sign intensity: +50%.
+
+28206		YRDEN LINK
+28229		Yrden glyphs join together, preventing foes from moving between glyphs.
+
+28207		IGNI MASTERY
+28230		Highly potent Igni Sign creates a wave of superheated air that burns enemies.&lt;br&gt;Sign damage: +15.
+
+28208		AXII CAST TIME
+28231		Highly proficient Axii users can charm enemies nearly instantly.&lt;br&gt;Sign channeling duration: 0s.
+
+28209		QUEN MASTERY
+28232		Quen shield reflects part of attack's force back on the enemy.&lt;br&gt;Sign shield deflects 20% damage.
+
+28210		CONTROL OVER THE POWER
+28233		Witchers specializing in Signs can use these simple spells with surprisingly devastating effect.&lt;br&gt;Signs intensity: +50%.
+
+28211		ENERGY FLOW
+28234		Extensive knowledge of Sign techniques adds a chance for critical effects.&lt;br&gt;Critical effect chance: incineration: +30%.&lt;br&gt;Critical effect chance: stun: +30%.
+
+28212		EXPOSE WEAKNESS
+28235		Geralt has learned to use his medallion to expose weaknesses of enemies.&lt;br&gt;Using medallion lowers enemy resistances.&lt;br&gt;Lowest resistance is shown in form of an aura.
+
+28213		ENDLESS VIGOR
+28236		Raging witcher is a terrifying sight to behold. Some have even been seen tirelessly obliberating whole groups of enemies with Signs.&lt;br&gt;Upon activation of Rage witcher becomes tireless for 10 seconds.&lt;br&gt;Allows the generation of Adrenaline through Signs.
+
+28214		MAGIC ATTUNEMENT
+28237		While normal enemies grow tired with time, witcher becomes even more dangerous the longer he fights.&lt;br&gt;Sign damage with charged Adrenaline bar: +10.&lt;br&gt;Adrenaline generation through Signs: +20%.
+
+28792		DAGGER THROWING
+28831		Witchers weapon expertise extends to various shorter blades, as well as throwing daggers.
+
+28793		PARADE
+28832		After years of training it is a second nature for a witcher to instinctively block incoming attacks.
+
+28794		ARROW REDIRECTION
+28833		Geralt once deflected two arrows with a single parade. He may yet repeat this feat again.
+
+28795		WEAPON HANDLING
+28834		Witchers always keep their swords in perfect condition.&lt;br&gt;Sword damage: +2.
+
+28796		RIPOSTE
+28835		A quick parade with a counterattack allows to catch most enemies off guard.
+
+28797		LIGHTNING REFLEX
+28836		A witcher with constant access to elixirs can keep reaction time at even lower levels.&lt;br&gt;Parry cooldown: 0s.
+
+28798		SOFT PARADE
+28837		A soft parade allows to absorb most of attack's momentum by allowing enemy weapon to slide on own blade.&lt;br&gt;Damage reduction on block: +10.
+
+28799		MOMENTUM
+28838		Geralt is able to retain his momentum after hitting an enemy without additional strain.&lt;br&gt;Additional opponents take: 50% damage.
+
+28800		TOUGHNESS
+28839		Geralt's battle scarred can endure injuries that would kill a regular human.&lt;br&gt;Vitality: +10.
+
+28801		PRECISION
+28840		Witcher's precise strikes can drop enemies in a single blow.&lt;br&gt;Chance of instant kill: 5%.
+
+28802		GAP IN ARMOR
+28841		Knowing anatomical weaknesses is sometimes not enough. Aiming the gaps in the armor is the best solution for armored opponents.&lt;br&gt;Armor penetration: +5.
+
+28803		FINESSE
+28842		Extensive knowledge of sword techniques ensures longer lasting effects.&lt;br&gt;Chance of sword critical effects: x2.
+
+28804		UNSTOPPABLE
+28843		During combat witcher enters a state of mind that allows him to shrug off incoming hits.&lt;br&gt;Decreased hit reaction severity.
+
+28805		OVERKILL
+28844		A frenzied witcher have often been seen finishing off groups of enemies in a matter of seconds.&lt;br&gt;Unlocks group finishers, activated after the adrenaline bar charges.&lt;br&gt;Allows the generation of adrenaline through sword blows.
+
+28806		ADRENALINE RUSH
+28845		While normal enemies grow tired with time, witcher becomes even more dangerous the longer he fights.&lt;br&gt;Sword damage with charged Adrenaline bar: +3.&lt;br&gt;Adrenaline generated through sword blows: +@sword15_end@%.
+
+28807		HERBALIST
+28902		Brewing witcher elixirs would be impossible without the knowledge of alchemical composition of plants.
+
+28808		WITCHER SECRETS
+28903		Every witcher school has its own secret alchemical recipies, mutatation procedures and fighting styles.
+
+28809		INGREDIENT EXTRACTION
+28904		Monster body parts are a rich source of substances needed in witcher alchemy.
+
+28810		RECUPERATION
+28905		Witcher's superhuman regeneration is further enhanced to the level where the process can be observed with bare eyes.&lt;br&gt;Vitality regeneration outside combat: 2/s.
+
+28811		SIDE EFFECT
+28906		In rare cases it is possible to extract mutagens from tissues in the process of brewing potions or creating oils.&lt;br&gt;Chance of creating mutagens as byproducts of alchemy: 10%.
+
+28812		SLOWED BLOODFLOW
+28907		Through meditation and chemical stimulation witcher can slow down poison spreading and bleeding even further.&lt;br&gt;Bleeding resistance: +30%.&lt;br&gt;Poison resistance: +30%.
+
+28813		OILS EFFICIENCY
+28908		Careful choosing of the most deadly poisons makes oils extremely potent against chosen monster types.&lt;br&gt;Effects of all oils used: x2.
+
+28814		MUTATE
+28909		Mutagens can catalyze additional witcher specific mutations.
+
+28815		MUTATE
+28910		Mutagens can catalyze additional witcher specific mutations.
+
+28816		MUTATE
+28911		Mutagens can catalyze additional witcher specific mutations.
+
+28817		ALCHEMIST
+28912		Practice makes perfect. Old saying also applies to brewing potions.&lt;br&gt;No negative effects of potions taken.
+
+28818		TASTER
+28913		Experience that came with ingesting hundreds of toxic elixirs allowed to refine filtration process of poisonous substances.&lt;br&gt;Toxicity of each potion taken: -5.
+
+28819		PREPARATION
+28914		Skillful preparation of trophies allows to retain the magic that brought some of the monsters to life. Or maybe decomposing monster bodyparts just demoralize the enemies.
+
+28820		CHEM RAGE
+28915		An alchemically induced frenzy makes witchers to forget about the world around. There is only them and the enemies..&lt;br&gt;Time dilation upon activation: 50% for 10 seconds.&lt;br&gt;Enables generation of Adrenaline when poisoned.
+
+28821		HIGH
+28916		While normal enemies grow tired with time, witcher becomes even more dangerous the longer he fights.&lt;br&gt;Vitality regeneration with charged Adrenaline bar: 2/s.&lt;br&gt;Immunity to critical effects with charged Adrenaline bar.
+
